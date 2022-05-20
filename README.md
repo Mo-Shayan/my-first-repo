@@ -1,28 +1,13 @@
-# This is a large heading
+# About todays OS lab 
 
-## This is a smaller heading
+## Configured git and pushed commits on Github using command line
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+And as **representation** of git efficiency ,
+created 3 files.
 
-- This is
-- an unordered
-- list
+1. file1.txt
+2. file2.txt
+3. readme.txt
 
-1. This is
-2. an ordered
-3. list
+link to github profile [shalkon](https://github.com/shalkon).
 
-Here is `some code` in the middle of a sentence.
-
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
